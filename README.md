@@ -25,7 +25,7 @@ HTML / CSS / JavaScript – front-end part
 Settings:
 (in future)
 
-For Installing/launching/testing this project you have to download a folder or clone github repository and launch it on local or if you want you can contact with team and they will host this project.
+For Installing/launching/testing this project you have to download a folder or clone github repository and launch it on local and do what you want or if you want you can contact with team and they will host this project.
 
 Where it can be used(I will write this later)
 
