@@ -31,7 +31,7 @@ Settings:
 Launch:
 (will be created in future)
 
-For testing this project you have to download a folder or clone github repository
+For testing this project you have to download a folder or clone github repository and launch it
 
 Where it can be used(I will write this later)
 
