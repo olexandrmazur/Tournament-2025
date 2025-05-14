@@ -22,16 +22,10 @@ MySQL 8.0.40 – database management system
 
 HTML / CSS / JavaScript – front-end part
 
-Installing:
+Settings:
 (in future)
 
-Settings:
-(in future too)
-
-Launch:
-(will be created in future)
-
-For testing this project you have to download a folder or clone github repository and launch it on local or if you want you can contact with team and they will host this project.
+For Installing/launching/testing this project you have to download a folder or clone github repository and launch it on local or if you want you can contact with team and they will host this project.
 
 Where it can be used(I will write this later)
 
