@@ -4,6 +4,7 @@ description of project(for what it is what problems it solving)
 
 Technologies:
 Java (Amazon Corretto JDK 21.0.6)
+
 JDBC – for working with the database
 
 HTTP Server – own implementation or use of the built-in HTTP server
