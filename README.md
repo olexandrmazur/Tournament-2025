@@ -16,4 +16,6 @@ Launch:
 For testing this project you have to...(I will write it in future)
 Where it can be used(I will write this later)
 Contacts:
-(I will write this later too)
+team: Script Raiders
+------------|---------
+Email: scriptraidersteam@gmail.com
