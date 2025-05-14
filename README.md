@@ -21,7 +21,16 @@ Launch:
 (will be created in future)
 For testing this project you have to...(I will write it in future)
 Where it can be used(I will write this later)
+
 Contacts:
 team: Script Raiders
-------------|---------
+
+| Ім’я та прізвище      | Роль у проєкті                     |
+|-----------------------|------------------------------------|
+| Іван Петренко         | Backend-розробник (Java, MySQL)    |
+| Олена Шевченко        | Frontend-розробниця (HTML/CSS/JS)  |
+| Максим Бондаренко     | Тестування та документація         |
+| Софія Ковальчук       | UI/UX дизайн                       |
+
+
 Email: scriptraidersteam@gmail.com
