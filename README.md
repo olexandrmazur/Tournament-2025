@@ -3,7 +3,7 @@ It is a All-Ukrainian team tournament 2025 task completed by Script Raiders team
 
 This project was created for the schools as the electronic diary. It offers the following functionality:
 
-Register user with three roles. They are parent, student, teacher. The user have its own name, login and password
+Register user with three roles. They are parent, student, teacher. The user have its own name, login and password. Every user has its own projile that they can change.
 
 Create events that can be one of next pypes: txam, control work, school events, parents meeting, personal events. The event has has such properties as title, start date, duration, content (may be hidden until the event time), venue or link (for online events), participants (you can select one, a group, or many), task (optional).
 
