@@ -25,12 +25,13 @@ Where it can be used(I will write this later)
 Contacts:
 team: Script Raiders
 
-| Ім’я та прізвище      | Роль у проєкті                     |
-|-----------------------|------------------------------------|
-| Іван Петренко         | Backend-розробник (Java, MySQL)    |
-| Олена Шевченко        | Frontend-розробниця (HTML/CSS/JS)  |
-| Максим Бондаренко     | Тестування та документація         |
-| Софія Ковальчук       | UI/UX дизайн                       |
+| name and surname      | role in the project                    |
+|-----------------------|----------------------------------------|
+| Olexandr Mazur        | Backend-developer and project manager  |
+| Nikita Gavrulenko     | Frontend-developer (HTML/CSS/JS)       |
+| Nikita Locmanenko     | Database engineer and scrum master     |
+| Angelina Osiptsova    | UI/UX designer                         |
+| Mykola Tashkinov      | Support engineer and tester            |
 
 
 Email: scriptraidersteam@gmail.com
