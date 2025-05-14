@@ -31,7 +31,7 @@ Settings:
 Launch:
 (will be created in future)
 
-For testing this project you have to...(I will write it in future)
+For testing this project you have to download a folder or clone github repository
 
 Where it can be used(I will write this later)
 
