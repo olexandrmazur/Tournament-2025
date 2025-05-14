@@ -9,6 +9,7 @@ MySQL 8.0.40 – database management system
 HTML / CSS / JavaScript – front-end part
 Installing:
 (in future)
+
 Settings:
 (in future too)
 Launch:
