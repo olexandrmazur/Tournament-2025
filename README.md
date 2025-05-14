@@ -1,5 +1,6 @@
 # Tournament-2025
 It is a All-Ukrainian team tournament 2025 task completed by Script Raiders team
+
 This project was created for the schools as the electronic diary
 description of project(for what it is what problems it solving)
 
