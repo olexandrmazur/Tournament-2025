@@ -23,11 +23,11 @@ MySQL 8.0.40 – database management system
 HTML / CSS / JavaScript – front-end part
 
 Settings:
-(in future)
+after downolading the zip file you must to build gson and mysql drivers into project
 
 For Installing/launching/testing this project you have to download a folder or clone github repository and launch it on local and do what you want or if you want you can contact with team and they will host this project.
 
-Where it can be used(I will write this later)
+Where it can be used for schools because it was planned for them
 
 Contacts:
 
