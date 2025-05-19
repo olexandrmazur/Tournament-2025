@@ -28,18 +28,3 @@ after downolading the zip file you must to build gson and mysql drivers into pro
 For Installing/launching/testing this project you have to download a folder or clone github repository and launch it on local and do what you want or if you want you can contact with team and they will host this project.
 
 Where it can be used for schools because it was planned for them
-
-Contacts:
-
-team: Script Raiders
-
-| name and surname      | role in the project                    |
-|-----------------------|----------------------------------------|
-| Olexandr Mazur        | Backend-developer and project manager  |
-| Nikita Gavrulenko     | Frontend-developer (HTML/CSS/JS)       |
-| Nikita Locmanenko     | Database engineer and scrum master     |
-| Angelina Osiptsova    | UI/UX designer                         |
-| Mykola Tashkinov      | Support engineer and tester            |
-
-
-Email: scriptraidersteam@gmail.com
