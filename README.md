@@ -28,3 +28,5 @@ after downolading the zip file you must to build gson and mysql drivers into pro
 For Installing/launching/testing this project you have to download a folder or clone github repository and launch it on local and do what you want or if you want you can contact with team and they will host this project.
 
 Where it can be used for schools because it was planned for them
+
+l
